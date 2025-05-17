@@ -1,0 +1,42 @@
+D:\zobi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\zobi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\zobi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\zobi\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\zobi\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\zobi\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\zobi\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\zobi\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\zobi\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\zobi\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\__\zohaib (calculator)\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\__\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\__\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\__\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\__\VB PROGRAMES\zohaib (calculator)\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\__\VB PROGRAMES\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\__\VB PROGRAMES\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\__\VB PROGRAMES\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\__\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\__\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\__\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\__\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\zobi\DIT DATA (USB)\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\zobi\DIT DATA (USB)\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\zobi\DIT DATA (USB)\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\zobi\DIT DATA (USB)\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\zobi\DIT DATA (USB)\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\zobi\DIT DATA (USB)\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\zobi\DIT DATA (USB)\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\zobi\DIT DATA (USB)\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\zobi\DIT DATA (USB)\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\zobi\DIT DATA (USB)\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\zobi\DIT DATA (USB)\DIT 1st SMESTER\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\zobi\DIT DATA (USB)\DIT 1st SMESTER\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\zobi\DIT DATA (USB)\DIT 1st SMESTER\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\zobi\DIT DATA (USB)\DIT 1st SMESTER\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\zobi\DIT DATA (USB)\DIT 1st SMESTER\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\zobi\DIT DATA (USB)\DIT 1st SMESTER\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\zobi\DIT DATA (USB)\DIT 1st SMESTER\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\zobi\DIT DATA (USB)\DIT 1st SMESTER\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\zobi\DIT DATA (USB)\DIT 1st SMESTER\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\zobi\DIT DATA (USB)\DIT 1st SMESTER\VB PROGRAMS\zohaib (calculator)\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
